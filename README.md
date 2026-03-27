@@ -16,29 +16,7 @@ CromosMarket es un marketplace fullstack para compra y venta de cromos digitales
 
 ---
 
-## 🎯 Requisitos Implementados
 
-### ✅ Requisitos Mínimos (5 puntos)
-- ✅ **Estructura Vite + Svelte 5** con carpetas organizadas (components, pages, services, store)
-- ✅ **Autenticación JWT** con login/registro, tokens en localStorage, protección de rutas
-- ✅ **CRUD de Productos** con listado, detalle, creación, edición y borrado
-- ✅ **Navegación SPA** con 5 pantallas (Home, Login, Publicar, Perfil, Admin)
-- ✅ **Estilos y UX** responsivos, design system moderno
-
-### ✅ Runes Svelte 5 (3 puntos)
-- ✅ **`$state()`** para estado global (auth, carrito, productos, ui)
-- ✅ **`$derived()`** para valores derivados (filtros, estadísticas, validaciones)
-- ✅ **`$effect()`** para side effects (carga de datos, redirecciones, sincronización)
-- ✅ **`$props()`** para Props en componentes reutilizables
-
-### ✅ Funcionalidades Avanzadas (2 puntos)
-- ✅ **Gestión de usuarios y roles** - Panel admin con CRUD de usuarios
-- ✅ **Persistencia de sesión** - JWT y user en localStorage
-- ✅ **Filtros y búsqueda** - Búsqueda por nombre/vendedor, ordenamiento por precio
-- ✅ **Validaciones reactivas** - En formularios con `$derived()`
-- ✅ **UX mejorada** - Spinners, toasts, confirmaciones, estados vacíos
-
----
 
 ## 🚀 Instalación y Ejecución
 
@@ -481,7 +459,7 @@ MIT License - Proyecto académico
 
 ## 👨‍💻 Autor
 
-Pablo Cantero - Praktika 1 Programación Web 2
+Pablo Cantero - Práctica 1 Programación Web 2
 
 ---
 
